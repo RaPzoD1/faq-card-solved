@@ -31,12 +31,18 @@ Users should be able to:
 
 #### Desktop
 
+![image](https://user-images.githubusercontent.com/25336634/154429393-b3cdeec8-14fd-4206-bdae-77b4182ea047.png)
+
+
 #### Mobile
+
+![image](https://user-images.githubusercontent.com/25336634/154429332-b6bd7295-29b9-492c-bcfb-bf49d32ebef6.png)
+
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/RaPzoD1/faq-card-solved)
+- Live Site URL: [Netlify](https://inspiring-hawking-553d39.netlify.app/)
 
 ## My process
 
